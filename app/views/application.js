@@ -6,7 +6,7 @@ export default Ember.View.extend({
 		this.$(".button-collapse").sideNav({
 			closeOnClick: true
 		});
-		window.addToHomescreen({debug: false});
+		// window.addToHomescreen({debug: false});
 	}
 });
 
